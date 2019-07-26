@@ -18,16 +18,16 @@ code {
 }
 
 .ui.header {
-  color: red;
+	color: red;
 }
 .ui.secondary.button {
-  color: red;
-  margin-top: 50px;
-  font-size: 30px;
+	color: red;
+	margin-top: 50px;
+	font-size: 30px;
 }
 .ui.blue.label {
-  background-color: black;
+	background-color: black;
 }
 h1 {
-  color: red;
+	color: red;
 }
